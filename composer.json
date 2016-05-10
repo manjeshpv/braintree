@@ -1,0 +1,17 @@
+{
+    "name": "manjeshpv/braintree",
+    "description": "PHP Braintree Integration",
+    "type": "s",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Manjesh V",
+            "email": "manjeshpv@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",  
+  "require" : {
+    "braintree/braintree_php" : "3.11.0"
+  }
+
+}
